@@ -32,4 +32,10 @@ int main()
         printf("%d / %d = %d",a,b,a/b);
         break;
     }
+    printf("\n);
+    //to print mac address
+    system("getmac");
+    unsigned char mac_address[6];
+return 0;
+
 }
