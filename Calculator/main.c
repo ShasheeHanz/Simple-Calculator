@@ -5,9 +5,9 @@ int main()
 {
     int a,b,choice;
     printf("******************WELCOME******************");
-    printf("To My Simple Calculator");
+    printf("A Simple Calculator");
     printf("\n\n1.Addition\n2.Subtraction\n3.Multiplication\n4.Division\n");
-    printf("What You Want To Do : ");
+    printf("Select from the following : ");
     scanf("%d",&choice);
     printf("Number 1 : ");
     scanf("%d",&a);
